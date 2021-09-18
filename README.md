@@ -9,7 +9,7 @@
 - id_rsa is your private key
 - id_rsa.pub is your public key
 - `cat id_rsa.pub` and copy the results (should start with ssh-rsa ... and end with the email address for your Github)
-### Deploying .ssh keys to Github
+## Deploying SSH keys to Github
 - In Github, go into your settings
 - Click on `SSH and GPG keys` on the side tab
 - Click `New SSH key`
